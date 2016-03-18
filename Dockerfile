@@ -1,6 +1,6 @@
 FROM ruby:2.2
 
-MAINTAINER Davi Marcondes moreira <davi.marcondes.moreira@gmail.com>
+MAINTAINER Davi Marcondes Moreira <davi.marcondes.moreira@gmail.com>
 
 EXPOSE 8000
 
